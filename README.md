@@ -1,6 +1,6 @@
 # Java_practice
-learning how to use java and do some simple projects
-#20240601 download Java and VScode(IDE)
+Learning how to use java and do some simple projects
+#20240601 Download Java and VScode(IDE)
 #20240601 後端工程師必學提示字元+Java用途與基本資料類型介紹
 #20240606 FOR-WHILE練習 +(知識:後端工程師維護API)
 #20240608 Class介紹
